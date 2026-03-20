@@ -46,7 +46,7 @@ Diode (D): A diode is connected in parallel with the load (output) and allows cu
 Output Voltage (Vout): The output voltage is the higher voltage level that you want to achieve.  
 
 ## Circuit diagram:
- <img width="1913" height="990" alt="image" src="https://github.com/user-attachments/assets/d834502a-b036-465c-b107-dff9ef437ee3" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/8823a436-65b1-4645-899e-bf59cc40d4b1" />
 
 ## Tabulation:
 
@@ -93,7 +93,8 @@ In summary, a boost converter is a DC-DC converter that increases the output vol
 
 
 ## Output Waveform:
-<img width="1907" height="897" alt="Screenshot 2026-03-18 160329" src="https://github.com/user-attachments/assets/80c1cbf5-76c9-4d37-9c5c-7afc07f68c35" />
+<img width="1916" height="930" alt="image" src="https://github.com/user-attachments/assets/709c321e-1304-48e2-b714-4987a0440cd5" />
+
 
 ## Result:
 
